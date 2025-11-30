@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212121"
+    tools:context=".ui.home.HomeFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Arthur Gonçalves - RA: 2404108\nBreno Gonçalves Renzi - RA: 2403703\nCaliu Muriell - RA: 2404012\nEduardo Oliveira - RA: 2501548\nGustavo Silva - RA: 2400891\nNicole Moraes Ferreira - RA: 2403651"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:lineSpacingExtra="8dp"/>
+
+</FrameLayout>
