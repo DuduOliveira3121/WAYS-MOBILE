@@ -1,7 +1,5 @@
 # Ways - Gestão de Transporte Escolar
 
-> **Transformando a logística escolar com eficiência e estilo.**![Banner Ways](https://via.placeholder.com/1000x300/212121/FFFFFF?text=Ways+App)
-
 ## 📱 Descrição do App
 
 O **Ways** (antigo Tio da Perua) é um aplicativo Android desenvolvido nativamente com Kotlin, focado na gestão de transporte escolar. O objetivo é facilitar a vida de condutores de vans escolares, permitindo o gerenciamento centralizado de alunos, responsáveis, escolas, turmas e condutores.
