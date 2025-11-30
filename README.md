@@ -12,13 +12,13 @@ O aplicativo conta com um design moderno em **Dark Mode** inspirado no design do
 
 ## 📸 Telas Principais
 
-| Login | Cadastro de Alunos | Integração ViaCEP |
+| Login | Cadastro do Aluno | Integração ViaCEP |
 |:-----------------:|:------------------:|:-----------------:|
-| <img src="caminho/para/print_login.png" width="250"> | <img src="caminho/para/print_alunos.png" width="250"> | <img src="caminho/para/print_viacep.png" width="250"> |
+| <img src="C:\Users\edu-o\Downloads\prints_telas\login.jpeg" width="250"> | <img src="C:\Users\edu-o\Downloads\prints_telas\cadastro_aluno.jpeg" width="250"> | <img src="C:\Users\edu-o\Downloads\prints_telas\integracao_viacep.jpeg" width="250"> |
 
-| Lista de Turmas | Menu Principal | Dark Mode () UI |
+| Lista de Turmas | Menu Principal | Dark Mode - UI |
 |:---------------:|:--------------:|:------------:|
-| <img src="caminho/para/print_turmas.png" width="250"> | <img src="caminho/para/print_menu.png" width="250"> | <img src="caminho/para/print_geral.png" width="250"> |
+| <img src="C:\Users\edu-o\Downloads\prints_telas\lista_de_turmas.jpeg" width="250"> | <img src="C:\Users\edu-o\Downloads\prints_telas\menu_principal.jpeg" width="250"> | <img src="C:\Users\edu-o\Downloads\prints_telas\dark_mode.jpeg" width="250"> |
 
 *(Substitua os caminhos acima pelos arquivos de imagem reais na pasta do seu projeto)*
 
