@@ -121,7 +121,6 @@ O aplicativo utiliza o padrão **DAO (Data Access Object)** com **SQLite** nativ
 ### 🚧 Pendentes (Próximos Passos)
 - [ ] Integração com banco de dados na nuvem (Firebase).
 - [ ] Otimização de rotas com Google Maps API.
-- [ ] Geração de mensalidades e controle financeiro.
 - [ ] Notificações Push para os pais (Chegada/Saída).
 
 ---
@@ -136,6 +135,3 @@ Projeto desenvolvido com dedicação por:
 *   **Eduardo Oliveira** - RA: 2501548
 *   **Gustavo Silva** - RA: 2400891
 *   **Nicole Moraes Ferreira** - RA: 2403651
-
----
-*© 2024 Ways - Todos os direitos reservados.*
