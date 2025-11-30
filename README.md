@@ -2,7 +2,7 @@
 
 ## 📱 Descrição do App
 
-O **Ways** (antigo Tio da Perua) é um aplicativo Android desenvolvido nativamente com Kotlin, focado na gestão de transporte escolar. O objetivo é facilitar a vida de condutores de vans escolares, permitindo o gerenciamento centralizado de alunos, responsáveis, escolas, turmas e condutores.
+O **Ways** é um aplicativo Android desenvolvido nativamente com Kotlin, focado na gestão de transporte escolar. O objetivo é facilitar a vida de condutores de vans escolares, permitindo o gerenciamento centralizado de alunos, responsáveis, escolas, turmas e condutores.
 
 O aplicativo conta com um design moderno em **Dark Mode** inspirado no design do Uber, integração com API de CEPs e armazenamento local de dados.
 
