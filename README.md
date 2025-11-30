@@ -14,11 +14,11 @@ O aplicativo conta com um design moderno em **Dark Mode** inspirado no design do
 
 | Login | Cadastro do Aluno | Integração ViaCEP |
 |:-----------------:|:------------------:|:-----------------:|
-| <img src=".\drawable\login.jpeg" width="250"> | <img src=".\drawable\cadastro_aluno.jpeg" width="250"> | <img src=".\drawable\integracao_viacep.jpeg" width="250"> |
+| <img src="app/src/main/res/drawable/login.jpeg" width="250"> | <img src="app/src/main/res/drawable/cadastro_aluno.jpeg" width="250"> | <img src="app/src/main/res/drawable/integracao_viacep.jpeg" width="250"> |
 
 | Lista de Turmas | Menu Principal | Dark Mode - UI |
 |:---------------:|:--------------:|:------------:|
-| <img src=".\drawable\lista_de_turmas.jpeg" width="250"> | <img src=".\drawable\menu_principal.jpeg" width="250"> | <img src=".\drawable\dark_mode.jpeg" width="250"> |
+| <img src="app/src/main/res/drawable/lista_de_turmas.jpeg" width="250"> | <img src="app/src/main/res/drawable/menu_principal.jpeg" width="250"> | <img src="app/src/main/res/drawable/dark_mode.jpeg" width="250"> |
 
 ---
 
