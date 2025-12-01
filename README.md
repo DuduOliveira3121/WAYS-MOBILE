@@ -149,7 +149,7 @@ Se o seu computador for lento para rodar o Emulador, rodar direto no celular é 
 3. Volte, vá em **Sistema > Opções do Desenvolvedor**.
 4. Ative a chave **"Depuração USB"**.
 
-### 5. Instalando Drivers USB (Windows)
+### 5. Instalando Drivers USB (Apenas em Windows)
 1. Conecte o celular ao PC via cabo USB.
 2. Se o Android Studio não reconhecer o celular:
    * Baixe o [Driver USB Universal](https://developer.android.com/studio/run/win-usb) ou o driver específico da marca do seu celular (Samsung, Motorola, Xiaomi).
