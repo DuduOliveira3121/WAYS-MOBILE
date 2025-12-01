@@ -37,27 +37,110 @@ O aplicativo conta com um design moderno em **Dark Mode** inspirado no design do
 Siga este guia para configurar o ambiente de desenvolvimento do zero.
 
 ### 1. Instalação do GIT
-Para baixar o projeto, você precisa do Git instalado.
-1. Baixe o Git: [git-scm.com](https://git-scm.com/downloads).
-2. Instale (pode seguir as opções padrão, "Next", "Next"...).
-3. Abra o terminal (CMD ou PowerShell) e teste:
-   ```bash
-   git --version
+Acesse: https://git-scm.com/downloads
+
+Você verá três botões principais:
+
+- **Windows**
+- **macOS**
+- **Linux/Unix**
+
+Clique no sistema correspondente ao seu computador.
+
+### ➤ 1.2 Escolher a versão correta para seu sistema
+
+### 🔹 **Windows**
+Ao clicar, o site vai sugerir automaticamente a versão recomendada.
+
+Você verá opções como:
+- **32-bit Git for Windows Setup**
+- **64-bit Git for Windows Setup**
+- **ARM64 Git for Windows Setup** (para processadores ARM, como Surface Pro X)
+
+Se você não sabe qual escolher:
+- Computadores comuns → **64-bit**
+- Surface ARM ou Windows ARM → **ARM64**
+
+Baixe o arquivo `.exe`.
+
+### 🔹 **macOS**
+Você verá opções:
+- **Intel (x86_64)** → Macs antigos (Macbook até 2020)
+- **Apple Silicon (ARM64)** → M1, M2, M3
+
+Se estiver com dúvida:
+- Abra o Terminal e digite:
+  ```bash
+  uname -m
+
+### 🔹 **Linux**
+
+Instale o Git usando o gerenciador de pacotes da sua distribuição:
+**Debian/Ubuntu**
+```bash
+sudo apt update
+sudo apt install git
+```
+
+**Fedora**
+```bash
+sudo dnf install git
+```
+
+### ➤ 1.3 Instalando GIT
+
+1. Execute o instalador (ou finalize a instalação pelo gerenciador de pacotes no Linux).
+2. Clique em **Next**, **Next**, **Next**...
+3. Mantenha todas as opções padrão.
+4. Clique em **Finish** para concluir.
+
 
 ### 2. Clonar o Projeto
-Abra uma pasta no seu computador, clique com botão direito > "Git Bash Here" ou use o terminal:
-  ```bash
-  git clone <URL obtida no botão "Code" na Home do repositório>
-  cd Ways
-  ```
+
+Escolha ou crie uma pasta no seu computador.
+Abra o terminal dentro dela:
+
+- **Windows:** clique com botão direito → *Git Bash Here*
+- **macOS/Linux:** abra o Terminal normalmente
+
+Execute:
+```bash
+git clone <URL do projeto obtida no botão "Code" do GitHub">
+cd Ways
+```
+
+
 ### 3. Instalação do Android Studio
-1. Baixe a IDE oficial: [Android Studio Download](https://developer.android.com/studio).
-2. Instale e abra o programa.
-3. Na tela inicial, escolha **"Open"** e selecione a pasta onde você clonou o projeto `Ways`.
-4. Aguarde o **Gradle** sincronizar (pode demorar alguns minutos na primeira vez).
+
+### ➤ 3.1 Baixar
+Acesse:
+https://developer.android.com/studio
+
+Escolha a versão de acordo com o seu sistema operacional:
+
+- **Windows**
+- **macOS (Intel ou Apple Silicon ARM)**
+- **Linux**
+
+### ➤ 3.2 Instalar
+
+1. Execute o instalador.
+2. Clique em **Next**, **Next**, **Next** para manter as configurações padrão.
+3. Quando a instalação terminar, abra o Android Studio.
+4. Na primeira abertura, aceite os termos e deixe o instalador baixar componentes adicionais (SDK, Platform Tools, etc).
+
+### ➤ 3.3 Abrir o Projeto Ways
+
+1. Na tela inicial do Android Studio, clique em **Open**.
+2. Navegue até a pasta onde você clonou o projeto `Ways`.
+3. Selecione a pasta e clique em **OK**.
+4. Aguarde a sincronização do **Gradle** (pode demorar na primeira vez).
+5. Quando o carregamento terminar, verifique se não há erros na barra inferior.
+
 
 ### 4. Configurando o Celular (Depuração USB)
 Se o seu computador for lento para rodar o Emulador, rodar direto no celular é a melhor opção.
+**O celular tem que ter Android**, em Iphones não irá funcionar.
 1. No celular, vá em **Configurações > Sobre o telefone**.
 2. Toque 7 vezes em **"Número da versão"** (ou "Número da compilação") até aparecer "Você agora é um desenvolvedor".
 3. Volte, vá em **Sistema > Opções do Desenvolvedor**.
