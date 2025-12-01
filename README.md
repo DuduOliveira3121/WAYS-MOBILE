@@ -49,6 +49,7 @@ Clique no sistema correspondente ao seu computador.
 
 ### ➤ 1.2 Escolher a versão correta para seu sistema
 
+
 ### 🔹 **Windows**
 Ao clicar, o site vai sugerir automaticamente a versão recomendada.
 
@@ -63,6 +64,7 @@ Se você não sabe qual escolher:
 
 Baixe o arquivo `.exe`.
 
+
 ### 🔹 **macOS**
 Você verá opções:
 - **Intel (x86_64)** → Macs antigos (Macbook até 2020)
@@ -72,6 +74,7 @@ Se estiver com dúvida:
 - Abra o Terminal e digite:
   ```bash
   uname -m
+
 
 ### 🔹 **Linux**
 
