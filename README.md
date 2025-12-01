@@ -75,7 +75,6 @@ Se estiver com dúvida:
   ```bash
   uname -m
 
-
 ### 🔹 **Linux**
 
 Instale o Git usando o gerenciador de pacotes da sua distribuição:
